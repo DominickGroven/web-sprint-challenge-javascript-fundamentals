@@ -31,5 +31,5 @@ function summation(num) {
   return totalNum;
 };
 
-console.log(summation(4));
+console.log(summation(4));g
 /* Create a function called `summation` that accepts a parameter and uses a counter to return the summation of that number. For example, `summation(4)` should return 10 because 1+2+3+4 is 10. */
